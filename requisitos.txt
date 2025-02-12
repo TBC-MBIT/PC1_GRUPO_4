@@ -1,5 +1,6 @@
 Proyecto de consolidación de Antonio Bayá Castells (Grupo 4):
 
+
 Las librerías usadas en el proyecto son:
 
 request, para descargar datos de la web, versión 2.32.3
