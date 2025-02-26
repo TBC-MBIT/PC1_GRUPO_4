@@ -1,0 +1,17 @@
+!pip install pandas
+!pip install mysql-connector-python
+!pip install sqlalchemy
+!pip install PyMySql
+!pip install pandas jsonlines
+!pip install seaborn
+
+
+
+import requests
+import pandas as pd
+import mysql.connector
+from sqlalchemy import create_engine, text
+import jsonlines
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
