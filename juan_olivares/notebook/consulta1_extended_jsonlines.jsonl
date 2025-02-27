@@ -1,0 +1,2 @@
+{"type": "red", "avg_quality": 5.656891495601173, "array_column": [1, 2, 3], "date_column": "2023-01-01T00:00:00"}
+{"type": "white", "avg_quality": 5.848244348244348, "array_column": [4, 5, 6], "date_column": "2023-02-01T00:00:00"}
